@@ -1,5 +1,6 @@
 import Flutter
 import UIKit
+import AVFoundation
 
 public class SwiftFlutterTtsPlugin: NSObject, FlutterPlugin, AVSpeechSynthesizerDelegate {
   final var iosAudioCategoryKey = "iosAudioCategoryKey"
