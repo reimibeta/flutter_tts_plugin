@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a5a5f7c-453a-4cbc-9383-b6dfac98b7ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterTtsPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftFlutterTtsPlugin.swift" afterDir="false" />
-    </list>
+    <list default="true" id="8a5a5f7c-453a-4cbc-9383-b6dfac98b7ad" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../packages/flutter_speak" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.37809187" />
@@ -62,10 +53,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1007" y="592" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599297371674">
+    <state x="1007" y="592" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599362297399">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1007" y="592" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599297371674" />
+    <state x="1007" y="592" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1599362297399" />
     <state x="1051" y="625" width="424" height="491" key="FileChooserDialogImpl/72.27.2488.1413@72.27.2488.1413" timestamp="1599290125495" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1599315616448">
       <screen x="0" y="0" width="1280" height="800" />
